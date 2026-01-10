@@ -1,8 +1,6 @@
-Based on my analysis of your portfolio repository, here's a comprehensive and well-formatted README.md for installation and setup:
+# Interactive and mobile responsive designed personal portfolio
 
 ```markdown
-# Beautiful Portfolio
-
 A personal developer portfolio built with **React** and **Vite** to showcase projects, skills, and contact information. Deployed with modern styling using **Tailwind CSS** and component libraries.
 
 ##  Live Demo
