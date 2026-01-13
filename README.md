@@ -7,6 +7,10 @@ A personal developer portfolio built with **React** and **Vite** to showcase pro
 
 View the deployed portfolio: [https://first-portfolio-dhavanesh-vs-projects.vercel.app/](https://first-portfolio-dhavanesh-vs-projects.vercel.app/)
 
+##  Documentation
+
+ **[CODEX – Project Architecture & Docs](./CODEX.md)**
+
 ## Features
 
 -  Fast & Responsive - Built with React 19 and Vite for optimal performance
