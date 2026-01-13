@@ -1,6 +1,6 @@
 # Interactive and mobile responsive designed personal portfolio
 
-```markdown
+
 A personal developer portfolio built with **React** and **Vite** to showcase projects, skills, and contact information. Deployed with modern styling using **Tailwind CSS** and component libraries.
 
 ##  Live Demo
